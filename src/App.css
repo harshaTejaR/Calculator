@@ -1,8 +1,4 @@
-.app {
-  text-align: center; ;
-  justify-self: center;
-}
-
-.app operator_btn btns{
-  display: flex;
+.App {
+  text-align: center;
+  justify-content: center;
 }
